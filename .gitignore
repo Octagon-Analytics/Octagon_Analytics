@@ -1,0 +1,3 @@
+#exclude all local data and runs
+/data
+/runs
