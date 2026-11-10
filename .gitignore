@@ -1,3 +1,4 @@
 #exclude all local data and runs
-/data
+.venv
+*.mp4
 /runs
